@@ -55,3 +55,8 @@ if uploaded_file is not None:
             st.progress(result['confidence'] / 100)
         else:
             st.error("No face with two eyes detected in the image.")
+
+st.markdown("---")
+st.markdown(
+    "📂 GitHub Repository: https://github.com/ajinkyamspawar/sports-person-image-classifier"
+)
