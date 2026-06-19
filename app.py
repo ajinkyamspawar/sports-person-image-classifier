@@ -12,7 +12,7 @@ st.set_page_config(
 
 util.load_saved_artifacts()
 
-st.title("🏆 Sports Person Image Classifier🏆")
+st.title("🏆 Sports Person Image Classifier")
 
 st.write(
     "Upload an image of a sports personality. "
