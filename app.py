@@ -23,6 +23,12 @@ st.write(
     "*Don't worry we don't save any image*"
 )
 
+st.write(
+    "*Use only .jpg or .png files only*"
+    
+)
+
+
 uploaded_file = st.file_uploader(
     "Choose an image",
     type=["jpg", "jpeg", "png"]
