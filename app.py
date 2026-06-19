@@ -24,7 +24,7 @@ st.write(
 )
 
 st.write(
-    "*Use only .jpg or .png files only*"
+    "*Use .jpg or .png files only*"
     
 )
 
